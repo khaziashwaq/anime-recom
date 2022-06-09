@@ -6,7 +6,7 @@ import streamlit as st
 
 
 
-st.set_page_config(page_title='anime recommender', page_icon=":shrine:", layout="wide")
+st.set_page_config(page_title='anime recommender', page_icon=":shinto_shrine:", layout="wide")
 
 
 def fetch(animeid):
